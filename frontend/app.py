@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="AI-Driven Student Performance Prediction System", page_icon="🎓", layout="wide")
 
 # Backend API Configuration
-API_URL = "http://127.0.0.1:8000/api/predict"
+API_URL = "https://ai-driven-student-performance-prediction.onrender.com/predict"
 
 st.title("🎓 AI-Driven Student Performance Prediction System")
 st.markdown("**Developer:** Adarsh Prajapati | **Program:** AICTE & IBM Internship")
