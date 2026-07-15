@@ -17,3 +17,7 @@ This machine learning application predicts a student's final academic grade base
 
 ## Model Evaluation
 The system utilizes a Random Forest Regressor, evaluated using Mean Absolute Error (MAE) and the R-squared ($R^2$) metric to ensure predictive reliability.
+output-> ![Screenshot 1](https://github.com/user-attachments/assets/bac54299-cd76-4131-ba28-04bc96771836)
+
+![Screenshot 2](https://github.com/user-attachments/assets/9b7a465d-c7af-42e2-aac7-9aadeb9a4ef8)
+Depolylink-> https://ai-driven-student-performance-prediction-system.streamlit.app/
